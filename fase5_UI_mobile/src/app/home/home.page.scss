@@ -1,0 +1,60 @@
+#ontitle strong {
+  color: purple;
+}
+
+#container {
+  text-align: left;
+
+  position: relative;
+  left: 0;
+  right: 0;
+  top: 5%;
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+  color: purple;
+  margin: 5%;
+}
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+  margin: 5%;
+  color: #8c8c8c;
+}
+
+
+#placeholders{
+  position: relative;
+  top: 5%;
+}
+
+#placeholders ion-item{
+  border-bottom-color: none;
+  position: relative;
+  margin: 5%;
+  border-radius: 10px;
+
+}
+
+#place{
+  text-align: right;
+
+}
+
+#placeholders #calcbutton ion-button{
+  background: purple;
+  color:white;
+  margin-left: 30%;
+  margin-right: 30%;
+  border-radius: 10px;
+  --box-shadow: none;
+}
+
+#placeholders #calcbutton {
+  position: relative;
+  top: 50px;
+  box-shadow: 0;
+}
