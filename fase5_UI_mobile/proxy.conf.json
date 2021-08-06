@@ -1,0 +1,11 @@
+{
+  "/calculoDetalhado":{
+    "target" : "http://localhost:30010",
+    "secure": false
+  },
+  
+  "/calculoResumido":{
+    "target" : "http://localhost:30010",
+    "secure": false
+  }
+}
